@@ -1,3 +1,3 @@
 # robotic_arm
 
-* [](results/inverse_kinematics.gif)
+* [](results/inverse-kinematics.gif)
