@@ -2,6 +2,20 @@
 
 ### Forward Kinematics:
 
+![](results/forward-kinematics.gif)
+
+#### XY view:
+
+![](results/xy-view.gif)
+
+#### YZ view:
+
+![](results/yz-view.gif)
+
+#### XZ view:
+
+![](results/xz-view.gif)
+
 
 
 ### Inverse Kinematics:
