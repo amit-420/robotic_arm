@@ -2,23 +2,23 @@
 
 ### Forward Kinematics:
 
-![](results/forward-kinematics.gif)
+<img src="results/forward-kinematics.gif" width="500" height="400"/>
 
 #### XY view:
 
-![](results/xy-view.gif)
+<img src="results/xy-view.gif" width="500" height="400"/>
 
 #### YZ view:
 
-![](results/yz-view.gif)
+<img src="results/yz-view.gif" width="500" height="400"/>
 
 #### XZ view:
 
-![](results/xz-view.gif)
+<img src="results/xz-view.gif" width="500" height="400"/>
 
 
 
 ### Inverse Kinematics:
 Here orange line is an intial position of an manipulator and the end-effector is moving towards the red dot which is an desired position.
 
-![](results/inverse-kinematics.gif)
+<img src="results/inverse-kinematics.gif" width="500" height="400"/>
