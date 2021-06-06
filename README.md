@@ -6,9 +6,9 @@
 
 
 
-|XY view | YZ view | XZ view|
+<!-- |XY view | YZ view | XZ view|
 |:------:|:--------:|:------:|
-|<img src="results/xy-view.gif" />|<img src="results/yz-view.gif" />|<img src="results/xz-view.gif" />|
+|<img src="results/xy-view.gif" />|<img src="results/yz-view.gif" />|<img src="results/xz-view.gif" />| -->
 
 
 
